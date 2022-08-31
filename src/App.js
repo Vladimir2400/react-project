@@ -67,7 +67,7 @@ function App() {
           </h2>
           <div className="main__project-photos">
             <img
-                src="https://avatars.mds.yandex.net/i?id=00daec9d52926a067370937abe360c98-5209452-images-thumbs&n=13"
+                src="https://pravo-invalida.ru/wp-content/uploads/2021/07/invalidy.jpg"
                 alt="" className="main__project-img"/>
             <img src="https://i2.wp.com/philanthropy.ru/wp-content/uploads/2012/11/johnfranklinstephens.jpg"
                  alt=""
