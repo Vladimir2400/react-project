@@ -55,7 +55,7 @@ function App() {
             равноправного
           </p>
           <p className="main__info-p">
-            участия всех людей ы куоьтурной жизни. В этот день музеи приглашают всех тех, кто поддерживает
+            участия всех людей в культурной жизни. В этот день музеи приглашают всех тех, кто поддерживает
           </p>
           <p className="main__info-p">
             развитие инклюзии в нащей стране.
@@ -67,7 +67,7 @@ function App() {
           </h2>
           <div className="main__project-photos">
             <img
-                src="https://lh4.googleusercontent.com/ShULQMW7lsE7z09Wk-zW1hpue0QWV1W1CqjLw21pkQYIBVJnNEi05sbfqh53rkaHJ2cxduvC3YWHy5O-THbCCJbeRYHTNbreyFngsjolghJxZe2SsZzMM4NHknDDgUdzZzyHH8I3"
+                src="https://avatars.mds.yandex.net/i?id=00daec9d52926a067370937abe360c98-5209452-images-thumbs&n=13"
                 alt="" className="main__project-img"/>
             <img src="https://i2.wp.com/philanthropy.ru/wp-content/uploads/2012/11/johnfranklinstephens.jpg"
                  alt=""
