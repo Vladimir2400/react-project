@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import invalidy from './images/invalidy.jpg'
 
 function App() {
   return (
@@ -67,7 +68,7 @@ function App() {
           </h2>
           <div className="main__project-photos">
             <img
-                src="https://pravo-invalida.ru/wp-content/uploads/2021/07/invalidy.jpg"
+                src={invalidy}
                 alt="" className="main__project-img"/>
             <img src="https://i2.wp.com/philanthropy.ru/wp-content/uploads/2012/11/johnfranklinstephens.jpg"
                  alt=""
