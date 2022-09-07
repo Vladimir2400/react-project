@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53574663-f4d9-4f63-ab70-6e47100ca19b" name="Changes" comment="add new files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53574663-f4d9-4f63-ab70-6e47100ca19b" name="Changes" comment="add new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
       <workItem from="1662114239032" duration="5531000" />
       <workItem from="1662125629856" duration="9062000" />
       <workItem from="1662365265305" duration="34689000" />
-      <workItem from="1662457617147" duration="32296000" />
+      <workItem from="1662457617147" duration="32628000" />
     </task>
     <task id="LOCAL-00001" summary="add new files">
       <created>1662535562703</created>
